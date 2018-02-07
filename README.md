@@ -1,8 +1,8 @@
-# Pagination & Content Filter (Nic version)
+# Pagination & Content Filter
 Second project potential realization for Full-Stack JS Developer Program. 
 
-Эта версия сделана специально для ребят из команды Treehouse. Моя версия находится в [репозитории](https://github.com/ermaxnet/threehouse-project-2.git). Я просто взял свой скрипт из него и подключил к вашей верске. Я не поменял в нем ни строчки логики! Надеюсь, бюрократия стоила того... 
+This version is made specialy for Treehouse students. My version lies in [repository](https://github.com/ermaxnet/threehouse-project-2.git). I just took my script from mentioned repisitory and connected it to a given task files. I havn't change any logics in this files. I hope the bureaucracy worth it...
 
-*Я забрал с собой из своего репозитория немного стилей для пагинатора и поля поиска. Так же в проекте используется совсем немного ES6 - надеюсь это можно в 2018 или я должен поддерживать IE?*
+*I took some styles for pagination and search field from my repository. Also the project uses a bit of ES6.*
 
-### Приятной проверки! Max Eremin
+### Have a nice examination! Max Eremin
